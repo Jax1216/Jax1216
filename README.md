@@ -53,8 +53,8 @@ Designed a normalized PostgreSQL schema for the NPS domain, implemented 15 JDBC 
 ## GitHub
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jax1216&show_icons=true&theme=transparent&hide_border=true&title_color=222222&icon_color=222222&text_color=555555" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jax1216&layout=compact&theme=transparent&hide_border=true&title_color=222222&text_color=555555" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jax1216&show_icons=true&theme=transparent&hide_border=true&title_color=fff&icon_color=fff&text_color=555555" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jax1216&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=555555" alt="Top Languages" />
 </div>
  
 ---
