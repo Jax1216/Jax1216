@@ -1,8 +1,8 @@
 <div align="center">
- 
+  <h1>Jaxzen Donlon</h1>
+  <h3>Software Engineer | Student @ University of Oklahoma</h3>
+  <p>I build practical software, from embedded systems to full web applications. Currently finishing a Computer Science degree at the University of Oklahoma.</p>
 </div>
- 
-I build things across the full stack — from ESP32 firmware and real-time audio pipelines to React frontends and production databases. Currently finishing a CS degree at the University of Oklahoma.
   
 ---
  
