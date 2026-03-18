@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# About Me:
 
-👨‍🎓 **Computer Science Student at OU** - Focused on full-stack development, building reliable applications from the database to the user interface.
+**Computer Science Student at OU** - Focused on full-stack development, building reliable applications from the database to the user interface.
 
-🚀 **Software Engineer** - Passionate about building robust, scalable applications and writing clean code.
+**Software Engineer** - Passionate about building robust, scalable applications and writing clean code.
 
-💻 **Current Projects** - **pinpal:** A comprehensive medication tracking application.
+**Current Projects** - **pinpal:** A comprehensive medication tracking application.
  - **Finance Manager:** A custom web tool for tracking personal spending and assets.
 
 ## 🌐 Socials:
