@@ -15,8 +15,8 @@
 
 
 ---
- 
-### ⬡ Finance Manager
+
+### ⬡ [Finance Manager](https://docs.google.com/spreadsheets/d/1hXG0s0pBXA9X1YK_x498XUbbwQ-lAgIQh4toSK4W1UQ/edit?usp=sharing)
 > Custom Excel sheet for expense tracking, asset management, and trend analysis.
  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) 
