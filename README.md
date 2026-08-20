@@ -8,26 +8,19 @@
  
 ## Featured Projects
  
-### ⬡ Pinpal — Medication Tracker
-> Comprehensive scheduling and adherence app for reliable medication management.
- 
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
- 
----
- 
-### ⬡ Personal Finance Manager
-> Custom web tool for expense tracking, asset management, and trend analysis.
- 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
- 
----
+### ⬡ P2P Encryption Messenger
+> A graphical Point-to-Point (P2P) messaging application utilizing TCP sockets to securely transmit text, voice, and media files.
 
-### ⬡ NPSS — National Park Service Database System
-> Full-stack database application built for a graduate-level systems course.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+---
  
-Designed a normalized PostgreSQL schema for the NPS domain, implemented 15 JDBC queries in Java, and built a complete test suite. Navigated complex foreign key constraint ordering and enforced rigorous code style throughout.
+### ⬡ Finance Manager
+> Custom Excel sheet for expense tracking, asset management, and trend analysis.
  
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)[![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) 
+---
 
 ---
  
